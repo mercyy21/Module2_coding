@@ -6,3 +6,10 @@
 h1{
     text-align: center;
 }
+.container{
+    border: black 1px thick;
+    clear: both;
+}
+.title{
+    margin-bottom: 30px;
+}
